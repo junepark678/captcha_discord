@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@netlify/functions": "^1.4.0",
+    "discord-interactions": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.0"
+  }
+}
